@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">text2speech</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="listen">Listen</string>
+    <string name="enter_text">Enter text</string>
+    <string name="text_to_speech_not_supported">The text to speech feature is not supported on your mobile device.</string>
+    <string name="text_to_speech_lang_not_supported">%1$s language is not supported in your device\'s text to speech.</string>
+</resources>
